@@ -1,0 +1,71 @@
+@import 'tailwindcss';
+
+:root {
+  --ink: #0f1f1c;
+  --ink-muted: #5a6f6a;
+  --accent: #0f766e;
+  --accent-soft: #ccfbf1;
+  --surface: #ffffff;
+  --surface-muted: #e8f0ee;
+  --border: #d0ddd9;
+  --star: #ca8a04;
+  --font-display: 'Syne', sans-serif;
+  --font-body: 'Outfit', sans-serif;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: var(--font-body);
+  color: var(--ink);
+  background:
+    radial-gradient(ellipse 80% 50% at 10% -10%, #b2f5ea55, transparent),
+    radial-gradient(ellipse 60% 40% at 90% 0%, #99f6e455, transparent),
+    linear-gradient(165deg, #f0f7f5 0%, #e4eeeb 45%, #dce8e4 100%);
+  background-attachment: fixed;
+  -webkit-font-smoothing: antialiased;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-up {
+  animation: fade-up 0.45s ease-out both;
+}
+
+@keyframes brand-in {
+  from {
+    opacity: 0;
+    letter-spacing: 0.3em;
+  }
+  to {
+    opacity: 1;
+    letter-spacing: 0.08em;
+  }
+}
+
+.animate-brand {
+  animation: brand-in 0.7s ease-out both;
+}

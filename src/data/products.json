@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Noise-Canceling Headphones",
+    "price": 249.99,
+    "category": "Electronics",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&h=600&fit=crop"
+  },
+  {
+    "id": 2,
+    "name": "Minimal Leather Crossbody Bag",
+    "price": 128.0,
+    "category": "Accessories",
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=600&h=600&fit=crop"
+  },
+  {
+    "id": 3,
+    "name": "Organic Cotton Crew Tee",
+    "price": 34.5,
+    "category": "Clothing",
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=600&h=600&fit=crop"
+  },
+  {
+    "id": 4,
+    "name": "Ceramic Pour-Over Coffee Set",
+    "price": 68.0,
+    "category": "Home",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=600&h=600&fit=crop"
+  },
+  {
+    "id": 5,
+    "name": "Trail Running Shoes",
+    "price": 145.0,
+    "category": "Sports",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&h=600&fit=crop"
+  },
+  {
+    "id": 6,
+    "name": "Smart Fitness Watch",
+    "price": 299.0,
+    "category": "Electronics",
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600&h=600&fit=crop"
+  },
+  {
+    "id": 7,
+    "name": "Linen Throw Pillow Set",
+    "price": 52.0,
+    "category": "Home",
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?w=600&h=600&fit=crop"
+  },
+  {
+    "id": 8,
+    "name": "Wool Blend Overcoat",
+    "price": 220.0,
+    "category": "Clothing",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?w=600&h=600&fit=crop"
+  },
+  {
+    "id": 9,
+    "name": "Yoga Mat — Extra Grip",
+    "price": 48.0,
+    "category": "Sports",
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?w=600&h=600&fit=crop"
+  },
+  {
+    "id": 10,
+    "name": "Polarized Aviator Sunglasses",
+    "price": 89.0,
+    "category": "Accessories",
+    "rating": 4.0,
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=600&h=600&fit=crop"
+  },
+  {
+    "id": 11,
+    "name": "Portable Bluetooth Speaker",
+    "price": 79.99,
+    "category": "Electronics",
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=600&h=600&fit=crop"
+  },
+  {
+    "id": 12,
+    "name": "Handwoven Basket Trio",
+    "price": 64.0,
+    "category": "Home",
+    "rating": 3.9,
+    "image": "https://images.unsplash.com/photo-1606760227091-3dd870d97f1d?w=600&h=600&fit=crop"
+  },
+  {
+    "id": 13,
+    "name": "Merino Wool Beanie",
+    "price": 28.0,
+    "category": "Accessories",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1576871337622-98d48d1cf531?w=600&h=600&fit=crop"
+  },
+  {
+    "id": 14,
+    "name": "Resistance Band Kit",
+    "price": 32.0,
+    "category": "Sports",
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1598289431512-b97b0917affc?w=600&h=600&fit=crop"
+  },
+  {
+    "id": 15,
+    "name": "Slim Fit Chino Pants",
+    "price": 72.0,
+    "category": "Clothing",
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=600&h=600&fit=crop"
+  },
+  {
+    "id": 16,
+    "name": "Mechanical Keyboard",
+    "price": 159.0,
+    "category": "Electronics",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?w=600&h=600&fit=crop"
+  },
+  {
+    "id": 17,
+    "name": "Scented Soy Candle — Cedar",
+    "price": 26.0,
+    "category": "Home",
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1602602670373-98c0e0b6b6c1?w=600&h=600&fit=crop"
+  },
+  {
+    "id": 18,
+    "name": "Insulated Water Bottle",
+    "price": 38.0,
+    "category": "Sports",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=600&h=600&fit=crop"
+  },
+  {
+    "id": 19,
+    "name": "Canvas High-Top Sneakers",
+    "price": 95.0,
+    "category": "Clothing",
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=600&h=600&fit=crop"
+  },
+  {
+    "id": 20,
+    "name": "Leather Card Holder",
+    "price": 42.0,
+    "category": "Accessories",
+    "rating": 3.8,
+    "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=600&h=600&fit=crop"
+  },
+  {
+    "id": 21,
+    "name": "4K Action Camera",
+    "price": 349.0,
+    "category": "Electronics",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=600&h=600&fit=crop"
+  },
+  {
+    "id": 22,
+    "name": "Desk Organizer Oak",
+    "price": 55.0,
+    "category": "Home",
+    "rating": 4.0,
+    "image": "https://images.unsplash.com/photo-1611269154421-4e27233ac5c7?w=600&h=600&fit=crop"
+  },
+  {
+    "id": 23,
+    "name": "Performance Running Shorts",
+    "price": 44.0,
+    "category": "Sports",
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?w=600&h=600&fit=crop"
+  },
+  {
+    "id": 24,
+    "name": "Cashmere Blend Scarf",
+    "price": 110.0,
+    "category": "Accessories",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1520903920243-00d872a2d1c9?w=600&h=600&fit=crop"
+  }
+]
